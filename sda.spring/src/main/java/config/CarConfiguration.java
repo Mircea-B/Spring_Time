@@ -1,4 +1,4 @@
-package services.config;
+package config;
 
 import car.Anvelope;
 import car.Benzina;
